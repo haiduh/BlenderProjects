@@ -2,9 +2,9 @@
 
 Welcome to my Blender projects repository! Here, you'll find various 3D models and animations created using Blender, showcasing my skills in 3D modeling, rigging, and animation. 
 
-## Current Project
+## Projects
 
-### 3D Hand for VR Game
+### 1. 3D Hand for VR Game
 
 
 ![hand](https://github.com/user-attachments/assets/fe03c9eb-cb57-47ee-9325-354d914546b2)
@@ -41,9 +41,6 @@ The rigged hand can be used in various VR projects, including:
 
 #### Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your feedback and suggestions are always welcome!
-
-## Future Projects
-Stay tuned for more exciting Blender projects as I continue to explore and create in the world of 3D modeling!
 
 ## Contact
 For any inquiries or collaboration opportunities, please reach out via rayaanhaider04@hotmail.com.
