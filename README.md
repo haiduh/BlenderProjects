@@ -42,7 +42,9 @@ The rigged hand can be used in various VR projects, including:
 #### Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your feedback and suggestions are always welcome!
 
-## Contact
-For any inquiries or collaboration opportunities, please reach out via rayaanhaider04@hotmail.com.
+## 📞 Contact Me
+If you have any questions, feel free to reach out:
+
+- **Email:** rayaanhaider04@hotmail.com
 
 Thank you for visiting my Blender projects repository!
