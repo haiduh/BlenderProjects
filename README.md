@@ -47,4 +47,6 @@ If you have any questions, feel free to reach out:
 
 - **Email:** rayaanhaider04@hotmail.com
 
+---
+
 Thank you for visiting my Blender projects repository!
